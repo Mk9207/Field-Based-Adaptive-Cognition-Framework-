@@ -1,0 +1,3 @@
+# Section: Core Model Description
+
+Details of the field-based adaptive cognition model...
